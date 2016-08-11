@@ -1,0 +1,8 @@
+- hosts: test
+ 
+  roles:
+    - server
+    - php
+    - mysql
+    - wordpress
+
